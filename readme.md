@@ -4,6 +4,9 @@ Este é um projeto de CRUD simples para treinar a hospedagem de um servidor Node
 
 ## Endpoints Implementados
 
+http://18.228.16.206:3000/items
+Utilize essa rota para testar o funcionamento da API.
+
 - `GET /items`: Retorna todos os itens.
 - `POST /items`: Adiciona um novo item.
 - `PUT /items/:id`: Atualiza um item existente.
