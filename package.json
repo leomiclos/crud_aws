@@ -1,0 +1,17 @@
+{
+  "name": "crud_node",
+  "version": "1.0.0",
+  "description": "Crud simples sem conexão a banco para teste aws",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Miclos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.4.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
